@@ -24,4 +24,4 @@
 //     startPrompt();
 // });
 
-// module.exports = connection.js;
+// module.exports = connection;
